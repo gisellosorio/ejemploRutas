@@ -1,6 +1,6 @@
 
 export const AdminPage = () => {
   return (
-      <h1>hola</h1>
+      <h1>Admin</h1>
   )
 }

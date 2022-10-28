@@ -4,6 +4,10 @@ import { PublicRoutes } from "./PublicRoutes"
 
 export const AppRouter = () => {
 
+  //  Para poder visualizar las rutas privadas o publicas necesitas cambiar verificado
+  //  verificado = true muestra las rutas privadas
+  //  verificado = false muestra las rutas publicas
+
   const verificado = false
 
   return (
